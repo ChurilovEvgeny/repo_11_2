@@ -6,3 +6,7 @@ def my_upper(in_str: str):
 def my_capitalize(in_str: str):
     """Функция делает первые большие буквы"""
     return in_str.capitalize()
+
+
+def hotfix():
+    pass
